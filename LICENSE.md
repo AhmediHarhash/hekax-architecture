@@ -22,4 +22,4 @@ IN NO EVENT SHALL HEKAX LLC BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
 
 ## Contact
 
-For licensing inquiries, contact: legal@hekax.com
+For licensing inquiries, contact: support@hekax.com
